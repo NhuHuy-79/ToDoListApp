@@ -19,8 +19,7 @@ Bạn có thể clone repository này hoặc import project từ Android Studio.
 
 ## Tính chất
 App bao gồm 4 tính chất CRUD (Create - Read - Update - Delete), chỉ bao gồm một màn hình chính.
-Ngoài ra app còn bổ sung thêm tính năng tìm kiếm và Undo giúp người dùng có thể khôi phục lại
-bản ghi đã xóa của mình. 
+Và một số tính năng phụ khác.
 
 ## Công nghệ Sử dụng
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
