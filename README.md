@@ -1,10 +1,15 @@
 # Simple ToDo App
+<p align ="center">
+    <img src="icon" width = 15%>
+</p>
+
 Một app ToDo đơn giản, được xây dựng bởi
 [Jetpack Compose](https://developer.android.com/jetpack/compose). Để có thể sử dụng app này, 
 hãy sử dụng phiên bản mới nhất của [Android Studio](https://developer.android.com/studio).
 Bạn có thể clone repository này hoặc import project từ Android Studio. 
 
-## Screenshots
+
+## Ảnh chụp
 <p align="center">
     <img src="img5.jpg" width="20%" style="display: inline-block; margin: 10px;">
     <img src="img4.jpg" width="20%" style="display: inline-block; margin: 10px;">
@@ -12,7 +17,7 @@ Bạn có thể clone repository này hoặc import project từ Android Studio.
  
 </p>
 
-## Features
+## Tính chất
 App bao gồm 4 tính chất CRUD (Create - Read - Update - Delete), chỉ bao gồm một màn hình chính.
 Ngoài ra app còn bổ sung thêm tính năng tìm kiếm và Undo giúp người dùng có thể khôi phục lại
 bản ghi đã xóa của mình. 
