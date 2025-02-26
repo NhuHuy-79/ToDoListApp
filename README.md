@@ -5,6 +5,12 @@ hãy sử dụng phiên bản mới nhất của [Android Studio](https://develo
 Bạn có thể clone repository này hoặc import project từ Android Studio. 
 
 ## Screenshots
+<p align="center">
+    <img src="img5.jpg" width="20%" style="display: inline-block; margin: 10px;">
+    <img src="img4.jpg" width="20%" style="display: inline-block; margin: 10px;">
+    <img src="img3.jpg" width="20%" style="display: inline-block; margin: 10px;">
+ 
+</p>
 
 ## Features
 App bao gồm 4 tính chất CRUD (Create - Read - Update - Delete), chỉ bao gồm một màn hình chính.
